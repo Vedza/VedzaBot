@@ -10,7 +10,7 @@ var options = {
     },
     identity: {
       username: "VedzaBot",
-      password: "api key"
+      password: "api key" //https://twitchapps.com/tmi/
     },
     channels: ["radiodamdam"]
 };
